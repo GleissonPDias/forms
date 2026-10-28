@@ -1,0 +1,54 @@
+{
+  "authBadge": "AUTHENTICATION UI",
+  "nav": {
+    "signIn": "SIGN IN",
+    "signUp": "SIGN UP"
+  },
+  "signIn": {
+    "title": "Sign In",
+    "subtitle": "Welcome back! Please enter your details.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "submit": "Sign In",
+    "submitting": "Signing in...",
+    "switchPrompt": "Don't have an account?",
+    "switchAction": "Sign Up"
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "subtitle": "Create your account to get started.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Create a password",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "terms": "I agree to the Terms and Privacy Policy",
+    "submit": "Sign Up",
+    "submitting": "Creating account...",
+    "switchPrompt": "Already have an account?",
+    "switchAction": "Sign In"
+  },
+  "divider": "OR CONTINUE WITH",
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordMin": "Password must be at least 8 characters",
+    "passwordsMismatch": "Passwords do not match",
+    "termsRequired": "You must accept the terms"
+  },
+  "social": {
+    "google": "Continue with Google",
+    "github": "Continue with GitHub",
+    "facebook": "Continue with Facebook"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again."
+  }
+}
